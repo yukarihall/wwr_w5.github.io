@@ -1,0 +1,146 @@
+.home-title {
+  font-family: 'Rock Salt','Roboto';
+  font-size: 2em;
+  margin-top: 10px;
+}
+#logo_link {
+  padding-top: 5px;
+}
+#content {
+  max-width: 1600px;
+  margin: 0 auto;
+}
+#background {
+  height: 725px;
+  background-color: #d19806;
+  margin-bottom: 200px;
+}
+#hero-img{
+  width: 100%
+}
+#hero-msg h1 {
+  text-align: center;
+}
+#hero-msg h4 {
+  text-align: center;
+}
+h4 {
+  color: black;
+}
+.book, .join {
+  background-color: #d19806;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 15px 30px;
+  margin-top: 50px;
+  border-radius: 5px;
+}
+.card-img {
+  border: 10px solid #219ebc;
+}
+main section img{
+  box-sizing: border-box;
+}
+.rivers-card{
+  margin-top: 200px;
+}
+.camping-card{
+  margin-top: 200px;
+}
+.rapids-card{
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+.book:hover, .join:hover {
+  background-color: #219ebc;
+  color: black;
+}
+h2 {
+  margin: 0;
+}
+.msg {
+  background-color: #2a7324;
+  color: white;
+  padding: 35px;
+  line-height: 1.5em
+}
+.msg h2 {
+  background-color: #2a7324;
+  color: white;
+}
+.msg p {
+  background-color: #2a7324;
+  color: white;
+  font-size: .8em;
+  padding-bottom: 15px;
+  
+}
+.button-box {
+  text-align: center;
+  margin: 0 auto;
+}
+body {
+  background-color:#045984;
+  font-family: 'Roboto';
+  font-size: 22px;
+  margin: 0;
+  padding: 0; 
+}
+header {
+  background-color:#d19806;
+}
+main section{
+  text-align: center;
+} 
+section {
+  text-align: center;
+}
+nav a:hover {
+  background-color: #045984;
+  color: black;
+} 
+.logo {
+  width: 80px;
+}  
+.icon {
+  width: 80px;
+  padding-top: 10px;
+}  
+nav a {
+  text-decoration: none;
+  color: black;
+  text-align: center;
+  padding: 35px;
+} 
+footer {
+  background-color: #d19806;
+  padding: 25px 50px;
+  padding-top: 15px;
+  margin-top: 200px;
+  color: white;
+}   
+footer a {
+  background-color: #d19806;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+}
+footer a:hover {
+  background-color: #045984;
+  color: black;
+}
+footer p {
+  font-size: 1.2em;
+}    
+footer p a:hover {
+  text-decoration: underline;
+}
+footer .socoal img{
+  padding-top: 15px;
+}  
+.mountains{
+margin-bottom: 200px;
+}
+
